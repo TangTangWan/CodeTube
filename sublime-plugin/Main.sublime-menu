@@ -1,0 +1,8 @@
+[{
+    "id": "view",
+    "children": [{
+        "caption": "Hello,World!",
+        "id": "hello,world",
+        "command": "example"
+    }]
+}]

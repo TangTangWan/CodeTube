@@ -1,0 +1,5 @@
+[
+    { "caption": "-" },
+    { "caption": "Hello,world!", "command": "example", "args": {}},
+    { "caption": "-", "id": "end" }
+]

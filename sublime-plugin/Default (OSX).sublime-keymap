@@ -1,0 +1,5 @@
+[
+    { "keys": ["alt+v"], "command": "example" },
+    { "keys": ["super+shift+z"], "command": "my_redo" },
+     {"keys": ["super+z"], "command": "my_undo" }
+]
